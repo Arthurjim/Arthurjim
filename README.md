@@ -1,4 +1,4 @@
-### Hi, I´m Arturo👋
+### Hi, my name is Arturo👋
 ### I'm a JavaScript Developer ⚡
 
 
