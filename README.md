@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I´m Arturo👋
+## I'm a JavaScript Developer ⚡
+
 
 <!--
 **Arthurjim/Arthurjim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
