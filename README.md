@@ -1,5 +1,5 @@
 ### Hi, my name is Arturo
-### I'm a JavaScript Developer ⚡
+### I'm a Web Developer ⚡
 
 
 <!--
