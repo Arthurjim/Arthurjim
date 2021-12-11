@@ -1,6 +1,14 @@
 ### Hi, my name is Arturo
 ### I'm a Web Developer ⚡
-
+<a href="mailto:arturojimenezrreyes@gmail.com">
+  <img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</a>
+<a>
+  <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a >
+  <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <!--
 **Arthurjim/Arthurjim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
