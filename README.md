@@ -29,8 +29,10 @@
 </div>
 
 ### :fire: My Stats :
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurjim&show_icons=true&theme=dark)
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arthurjim&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arthurjim&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+  
+ 
 
