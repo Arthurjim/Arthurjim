@@ -1,6 +1,6 @@
 
 <div id="badges" align="center">
-  <h1>  Hi, my name is Arturo </h1>
+  <h1> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   <h3> I'm a Web Developer ⚡</h3>
   <a href="mailto:arturojimenezrreyes@gmail.com">
     <img  alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
