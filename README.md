@@ -33,8 +33,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurjim&show_icons=true&theme=dark)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arthurjim&theme=react-dark)](https://github.com/Arthurjim/github-readme-activity-graph)
 
   
  
