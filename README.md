@@ -10,28 +10,35 @@
   </a>  
 </div>
 
-
+<h2>:cyclone: A Few Quick Facts :cyclone:</h2>
+ <ul>
+  <li>:office_worker:
+  I'm currently working on Palace Resorts
+  </li>
+  <li>:man_technologist: Learning about Vue, Serverless architecture and a bit of design patterns</li>
+  <li>:airplane: I like to travel </li>
+ </ul>
 
 <br/>
-<br/>
+<h2>
 :hammer_and_wrench: Languages and Tools :
+</h2>
+
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### :fire: My Stats :
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arthurjim&theme=react-dark)](https://github.com/Arthurjim/github-readme-activity-graph)
 
