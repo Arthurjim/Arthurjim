@@ -42,6 +42,8 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arthurjim&theme=react-dark)](https://arthurjim.github.io/Portfolio/#/)
 
-  
- 
+<br/>
+<br/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
