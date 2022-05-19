@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arthurjim&theme=react-dark)](https://github.com/Arthurjim/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arthurjim&theme=react-dark)](https://arthurjim.github.io/Portfolio/#/)
 
   
  
