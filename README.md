@@ -49,10 +49,11 @@
 </div>
 <br/>
 <br/>
+📊 &nbsp;**This week I spent my time on**
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arthurjim&theme=react-dark)](https://arthurjim.github.io/Portfolio/#/)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Arthurjim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
-<br/>
+ <br/>
 <br/>
   
 <!--START_SECTION:waka-->
