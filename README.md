@@ -49,19 +49,11 @@
 </div>
 <br/>
 <br/>
-<h2>📊 &nbsp; This week I spent my time on<h2>
+  
+  
 
   
-<!--START_SECTION:waka-->
+<h2>📊 &nbsp; This week I spent my time on<h2>
 
-```text
-JavaScript   5 hrs 2 mins    ████████████▒░░░░░░░░░░░░   49.98 %
-Vue.js       4 hrs 11 mins   ██████████▒░░░░░░░░░░░░░░   41.64 %
-SCSS         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-```
-
-<!--END_SECTION:waka-->
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Arthurjim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
