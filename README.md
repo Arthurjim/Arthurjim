@@ -53,7 +53,7 @@
   
 
   
-<h2>📊 &nbsp; This week I spent my time on<h2>
+<h2>📊 Weekly development breakdown</h2>
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Arthurjim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
