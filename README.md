@@ -2,14 +2,21 @@
 <div id="badges" align="center">
   <h1> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   <h3> I'm a Web Developer ⚡</h3>
-  <a href="mailto:arturojimenezrreyes@gmail.com">
-    <img  alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-  </a>
-  <a href="https://www.linkedin.com/in/arturo-jiménez-reyes-8389901b0">
-    <img aalt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  
-</div>
+  <p>
+    <a href="https://www.linkedin.com/in/arturo-jiménez-reyes-8389901b0">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    </a>
+    <a href="https://www.instagram.com/arthurjimenezz/">
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    </a> 
+     <a href="https://twitter.com/arthur_jim13">
+      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+    </a> 
+  
+  </p>
 
+</div>
+  
 <h2>:cyclone: A Few Quick Facts :cyclone:</h2>
  <ul>
   <li>:office_worker:
