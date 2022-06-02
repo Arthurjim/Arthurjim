@@ -1,6 +1,6 @@
 
 <div id="badges" align="center">
-  <h1> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
   <h3> I'm a Web Developer ⚡</h3>
   <p>
     <a href="https://www.linkedin.com/in/arturo-jiménez-reyes-8389901b0">
