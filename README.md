@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/arturo-jiménez-reyes-8389901b0">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a>
+        <a href="https://www.instagram.com/arthurjimenezz/">
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    </a> 
      <a href="https://twitter.com/arthur_jim13">
       <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
     </a> 
@@ -19,7 +22,6 @@
   <li>:office_worker:
   I'm currently working on Palace Resorts
   </li>
-  <li>:man_technologist: Learning about Vue, Serverless architecture and a bit of design patterns</li>
   <li>:airplane: I like to travel </li>
  </ul>
 
